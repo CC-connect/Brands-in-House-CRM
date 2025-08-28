@@ -1,0 +1,7 @@
+{
+  "name": "Brands In House",
+  "description": "A CRM dashboard for marketing teams to manage tasks for editors, designers, developers, and other roles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
